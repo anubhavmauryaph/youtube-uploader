@@ -1,6 +1,5 @@
 # Directly upload media from Google drive to Youtube using google colab
-I <a href="https://github.com/agent87/"> agent87 </a>
-as a deep learning enthusiast re-implemneting models using the google colab environment,
+
 i aim to keep my operations/implementation on the internet as much as possible especially data heavy ones like video upload
 
 Youtube uploader is python 2 script that will upload your machine learning output video especially computer vision from 
