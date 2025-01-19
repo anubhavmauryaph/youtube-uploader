@@ -36,8 +36,3 @@ The script shall automatically install all the dependencies
 <a href="http://upload-4ever.com/d/MdRp"> Link 1 </a> \
 OR \
 <a href="https://shrinke.me/6G7x1etb"> Link 2 </a> 
-
-
-# Credits:-
-<a href="https://github.com/agent87/"> agent87 </a> \
-<a href="https://github.com/BoostUpStation/youtube-up"> boostupstation </a> - extra functionality.
